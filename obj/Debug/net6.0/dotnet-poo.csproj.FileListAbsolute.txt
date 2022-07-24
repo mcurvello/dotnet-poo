@@ -1,0 +1,15 @@
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/bin/Debug/net6.0/dotnet-poo
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/bin/Debug/net6.0/dotnet-poo.deps.json
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/bin/Debug/net6.0/dotnet-poo.runtimeconfig.json
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/bin/Debug/net6.0/dotnet-poo.dll
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/bin/Debug/net6.0/dotnet-poo.pdb
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.csproj.AssemblyReference.cache
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.AssemblyInfoInputs.cache
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.AssemblyInfo.cs
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.csproj.CoreCompileInputs.cache
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.dll
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/refint/dotnet-poo.dll
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.pdb
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/dotnet-poo.genruntimeconfig.cache
+/Users/marciocurvello/Documents/Estudos/dotnet-poo/obj/Debug/net6.0/ref/dotnet-poo.dll
